@@ -1,6 +1,6 @@
 {
-  "name": "SelectionToCursor",
-  "displayName": "SelectionToCursor",
+  "name": "com.rsalomon.selectiontocursor",
+  "displayName": "Selection To Cursor",
   "version": "1.0.0",
   "unity": "2022.2",
   "description": "Selection To Cursor is a small yet handy shortcut, which will speed up the workflow of people working in the Scene View.",
