@@ -1,14 +1,13 @@
 {
-  "name": "Selection To Cursor",
-  "displayName": "Selection To Cursor",
+  "name": "SelectionToCursor",
+  "displayName": "SelectionToCursor",
   "version": "1.0.0",
-  "unity": "2022.3",
-  "description": "Selection To Cursor allows for the user to teleport a selected GameObject to its cursor location, in the scene view.",
-  "keywords": [ "editor" ],
+  "unity": "2022.2",
+  "description": "Selection To Cursor is a small yet handy shortcut, which will speed up the workflow of people working in the Scene View.",
   "category": "editor extensions",
   "dependencies": {},
   "author": {
-    "name": "Rémi Salomon",
+    "name": "Remi Salomon",
     "url": "https://github.com/SalomonRemi"
   }
 }
